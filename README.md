@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋, My name is Shivam Panigrahi
+
+I'm Shivam, hailing from India, am deeply immersed in the realms of Design and Development. A fervent explorer of languages like Python and JavaScript, I find joy in the intricacies of wireframing, UI, UX, and the broader design spectrum. I embody the spirit of innovation in programming. With a knack for creative problem-solving and a mastery of diverse data structures, I navigate seamlessly through various platforms, languages, and embedded systems.
 
 <!--
 **shivam821/shivam821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
