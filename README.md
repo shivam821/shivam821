@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Shivam Panigrahi
 
-(/assets/github-header-image.png)
+<img width="100%" src="(/assets/github-header-image.png)" alt="my banner">
 
 I'm Shivam, hailing from India, am deeply immersed in the realms of Design and Development. A fervent explorer of languages like Python and JavaScript, I find joy in the intricacies of wireframing, UI, UX, and the broader design spectrum. I embody the spirit of innovation in programming. With a knack for creative problem-solving and a mastery of diverse data structures, I navigate seamlessly through various platforms, languages, and embedded systems.
 
