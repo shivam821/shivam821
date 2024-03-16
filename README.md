@@ -1,20 +1,25 @@
-# Hi there 👋, My name is Shivam Panigrahi
-
-<img width="100%" src="(/assets/github-header-image.png)" alt="my banner">
+### Hi there 👋, My name is Shivam Panigrahi
+![](https://github.com/shivam821/shivam821/blob/main/assets/github-header-image.png)
 
 I'm Shivam, hailing from India, am deeply immersed in the realms of Design and Development. A fervent explorer of languages like Python and JavaScript, I find joy in the intricacies of wireframing, UI, UX, and the broader design spectrum. I embody the spirit of innovation in programming. With a knack for creative problem-solving and a mastery of diverse data structures, I navigate seamlessly through various platforms, languages, and embedded systems.
 
-<!--
-**shivam821/shivam821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Python / Javascipt / MySQL / UI/UX Design
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on https://github.com/shivam821/FlaskBook 
+- 🌱 I’m currently learning Javascript and DSA 
+- 📫 How to reach me: panigrahishivam821@gmail.com 
+- ⚡ Fun fact: The first computer “bug” was an actual real-life bug 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shivam821)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ShivamPanigrahi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/soundsgood_doesntit/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ShivamP821)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shivam821.github.io/shivampanigrahi.github.io/)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shivam821)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam821)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam821&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/shivam821/contributions?format=svg&private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=shivam821)  
+
