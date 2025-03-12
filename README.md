@@ -5,7 +5,7 @@ I'm Shivam, hailing from India, am deeply immersed in the realms of Design and D
 
 Skills: Python / Javascipt / MySQL / UI/UX Design
 
-- 🔭 I’m currently working on https://github.com/shivam821/FlaskBook 
+- 🔭 I’m currently working on https://github.com/shivam821/Enhanced-Automated-Bill-Splitter 
 - 🌱 I’m currently learning Javascript and DSA 
 - 📫 How to reach me: panigrahishivam821@gmail.com 
 - ⚡ Fun fact: The first computer “bug” was an actual real-life bug 
