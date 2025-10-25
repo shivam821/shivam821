@@ -1,12 +1,12 @@
 ### Hi there 👋, My name is Shivam Panigrahi
 ![](https://github.com/shivam821/shivam821/blob/main/assets/github-header-image.png)
 
-I'm Shivam, hailing from India, am deeply immersed in the realms of Design and Development. A fervent explorer of languages like Python and JavaScript, I find joy in the intricacies of wireframing, UI, UX, and the broader design spectrum. I embody the spirit of innovation in programming. With a knack for creative problem-solving and a mastery of diverse data structures, I navigate seamlessly through various platforms, languages, and embedded systems.
+I'm Shivam, hailing from India, and am deeply immersed in the realms of Design and Development. A fervent explorer of languages like Python and JavaScript, I find joy in the intricacies of wireframing, UI, UX, and the broader design spectrum. I embody the spirit of innovation in programming. With a knack for creative problem-solving and a mastery of diverse data structures, I navigate seamlessly through various platforms, languages, and embedded systems.
 
 Skills: Python / Javascipt / MySQL / UI/UX Design
 
-- 🔭 I’m currently working on https://github.com/shivam821/Enhanced-Automated-Bill-Splitter 
-- 🌱 I’m currently learning Javascript and DSA 
+- 🔭 I’m currently working on https://github.com/shivam821/SupportPulse 
+- 🌱 I’m currently learning DevOps and Javascript 
 - 📫 How to reach me: panigrahishivam821@gmail.com 
 - ⚡ Fun fact: The first computer “bug” was an actual real-life bug 
 
